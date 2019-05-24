@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="00ffbe" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-4754bc96:16890ee93fe:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>

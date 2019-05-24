@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="1478cc86-7c3b-4736-bc84-9bf17fbdb349" name="VerticalFarming">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
