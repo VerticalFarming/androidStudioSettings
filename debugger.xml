@@ -86,7 +86,7 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="com.amazon.*" />
+      <option name="PATTERN" value="com.amazonaws.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
